@@ -24,7 +24,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #2c3e50; /* Changed for better aesthetics */
+    background: #34495e; /* Updated footer background color for better aesthetics */
     color: #ffffff;
     position: fixed;
     bottom: 0;
