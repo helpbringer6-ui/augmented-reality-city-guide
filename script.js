@@ -1,6 +1,6 @@
 document.getElementById('start-ar').addEventListener('click', function() {
     // Functionality to start Augmented Reality
-    alert('The Augmented Reality feature is currently under development and is expected to be available in future updates.');
+    alert('The Augmented Reality feature is currently under construction.');
 });
 
 // Example code for interactive map
