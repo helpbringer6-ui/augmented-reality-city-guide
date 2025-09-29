@@ -1,12 +1,12 @@
 document.getElementById('start-ar').addEventListener('click', function() {
-    // Funktionalität zum Starten der Augmented Reality
-    alert('Die AR-Funktionalität ist derzeit in Entwicklung.');
+    // Functionality to start Augmented Reality
+    alert('The AR functionality is currently under development.');
 });
 
-// Beispielcode für interaktive Karte
+// Example code for interactive map
 function initMap() {
     const mapContainer = document.getElementById('map-container');
-    // Hier sollte der Code zur Initialisierung der Karte stehen.
-    mapContainer.innerHTML = 'Karte wird geladen...';
+    // Code to initialize the map should go here.
+    mapContainer.innerHTML = 'Map is loading...';
 }
 initMap();
