@@ -1,6 +1,6 @@
 document.getElementById('start-ar').addEventListener('click', function() {
     // Funktionalität zum Starten der Augmented Reality
-    alert('AR-Funktionalität noch nicht implementiert.');
+    alert('Die AR-Funktionalität ist derzeit in Entwicklung.');
 });
 
 // Beispielcode für interaktive Karte
