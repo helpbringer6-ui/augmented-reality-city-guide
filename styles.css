@@ -18,7 +18,7 @@ main {
 }
 #map-container {
     width: 100%;
-    height: 450px; /* Increased height for better visibility of map */
+    height: 500px; /* Adjusted height for better visibility of map */
     background-color: #e2e2e2;
 }
 footer {
